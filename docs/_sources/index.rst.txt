@@ -1,10 +1,13 @@
 C Programlama Dili Kursu 16 Agustos 2025
-=======================================
+===========================================
 
-Bu dökümantasyon, C Programlama Dili Kursu için hazırlanmıştır.
+Bu dokümantasyon, C Programlama Dili Kursu için hazırlanmıştır.
+
+Dersler
+-------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Dersler:
+   :caption: İçindekiler:
 
    ders1
